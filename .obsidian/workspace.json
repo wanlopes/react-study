@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "91f193bc9c188a27",
+    "type": "split",
+    "children": [
+      {
+        "id": "3326ac7a898841a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f5855c0ba910fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PowerShell Commands.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "409c8e11376964d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Common Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad87f233e39deb2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PowerShell Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aefec8985ba71f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c3b10e8f0a3c8fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f10de0e2d6f60774",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f220b0fa70e9075",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5c160a4886a14c0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "574695754ecb8371",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f3bbc5860dee831",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3b07c732c83e6ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Common Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a47f008a05f00371",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Common Commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24c36072f0a18e8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1bf516c7ae6a66d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Common Commands.md"
+              }
+            }
+          },
+          {
+            "id": "70ab1c00e58eca96",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "409c8e11376964d3",
+  "lastOpenFiles": [
+    "PowerShell Commands.md",
+    "JavaScript/Cheat Sheet.md",
+    "Common Commands.md",
+    "NPM.md",
+    "README.md",
+    "obsidian-react-notes/Hooks.md",
+    "obsidian-react-notes/Imperative vs Declarative.md",
+    "obsidian-react-notes/Fragments.md",
+    "obsidian-react-notes/DOM.md",
+    "obsidian-react-notes/Screenshots/Pasted image 20220914003119.png"
+  ]
+}
